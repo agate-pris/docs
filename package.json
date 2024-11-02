@@ -1,7 +1,8 @@
 {
   "scripts": {
     "build": "honkit build",
-    "serve": "honkit serve"
+    "serve": "honkit serve",
+    "format": "prettier --write '_book/**/*.{html,css,js}'"
   },
   "devDependencies": {
     "honkit": "^6.0.2",
