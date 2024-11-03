@@ -5,6 +5,7 @@
     "format": "prettier --write '_book/**/*.{html,css,js}'"
   },
   "devDependencies": {
+    "gitbook-plugin-flexible-alerts": "^1.0.4",
     "honkit": "^6.0.2",
     "prettier": "^3.3.3"
   }
