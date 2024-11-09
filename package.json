@@ -7,6 +7,7 @@
   "devDependencies": {
     "gitbook-plugin-flexible-alerts": "^1.0.4",
     "honkit": "^6.0.2",
+    "honkit-plugin-mermaid-md-adoc": "^0.0.8",
     "prettier": "^3.3.3"
   }
 }
